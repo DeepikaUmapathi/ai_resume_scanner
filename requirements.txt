@@ -1,7 +1,4 @@
-json
-os
-re
 streamlit
-PyPDF2
-groq
 python-dotenv
+groq
+PyPDF2
